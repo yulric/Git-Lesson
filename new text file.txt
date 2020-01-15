@@ -1,1 +1,2 @@
 New git file
+Add new line
